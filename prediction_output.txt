@@ -1,0 +1,18 @@
+Loading trained model...
+
+**************************************************
+      AI-BASED DISEASE PREDICTION SYSTEM      
+**************************************************
+Please answer the following questions with 'yes' or 'no'.
+
+Do you have Fever? (yes/no): Do you have Headache? (yes/no): Do you have Cough? (yes/no): Do you have Fatigue? (yes/no): Do you have Body Pain? (yes/no): Do you have Sore Throat? (yes/no): Do you have Nausea? (yes/no): Do you have Chills? (yes/no): Do you have Runny Nose? (yes/no): Do you have Shortness of Breath? (yes/no): 
+Analyzing symptoms...
+
+==================================================
+              PREDICTION RESULT               
+==================================================
+Based on the symptoms provided, you might have:
+                >> DENGUE <<
+==================================================
+Disclaimer: This is a synthetic prediction system and not medical advice.
+Please consult a doctor for a professional medical diagnosis.
